@@ -1,0 +1,10 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Justin Green <justingreendev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
